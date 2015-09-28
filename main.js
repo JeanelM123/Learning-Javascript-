@@ -49,7 +49,11 @@ var born = 1983;
 var today = 2015;
 
 // Answers Below:
+var statement = "Tim is"
+var years = "years old." 
+a = 32
 
+statement + a + years = "Tim is" 32 "years old."
 
 
 // Store some information following in variables.
@@ -59,6 +63,19 @@ var instructorName;
 // Update the variables above so the expression reads correctly.
 // Answers Below:
 
+var yourName = "Jeanel"; 
+var instructorName= "Tim";
+
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+
+
+
+
+
+
+
+
+
+
