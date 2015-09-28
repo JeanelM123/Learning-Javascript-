@@ -8,17 +8,17 @@ var givenName;
 
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
-// A:
+// A: Tim
 
 
 givenName = "JD";
 // Q: What is `givenName` set to right now?
-// A:
+// A:TImJD
 
 
 var greeting = "Hello, how are you?";
 // Q: What is `greeting` set to?
-// A:
+// A:Undefined 
 
 
 /*=========================================================
